@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    flex-direction:column;
+    width: 500px;
+    gap: 1rem;
+    margin: 20px auto ;
+}
+
+.button{
+    background-color: brown;
+    color: rgb(255, 255, 255);
+    border: 0px;
+    height: 30px;
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: crimson;
+}
